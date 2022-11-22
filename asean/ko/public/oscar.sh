@@ -1,5 +1,5 @@
 # Data Name: OSCAR-2201(ko)
-# Data Size: ?GB
+# Data Size: 24GB
 # Description: huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the Ungoliant architecture.
 
 # Requirements

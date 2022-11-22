@@ -1,5 +1,5 @@
 # Data Name: mc4-ko
-# Data Size: ?GB
+# Data Size: 71GB
 # Description: colossal, cleaned version of Common Crawl's web crawl corpus 
 
 # Requirements
